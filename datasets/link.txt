@@ -1,0 +1,3 @@
+ switzerlandheartdesiase -> https://archive.ics.uci.edu/dataset/45/heart+disease
+ mushroomshabitat -> https://archive.ics.uci.edu/dataset/73/mushroom
+ wineorigin -> https://archive.ics.uci.edu/dataset/109/wine
